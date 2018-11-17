@@ -21,6 +21,7 @@
     vc.navigationItem.title = @"firstVC";
     NSLog(@"22222222");
      NSLog(@"33333333333");
+     NSLog(@"44444444");
 }
 
 
