@@ -19,6 +19,7 @@
     NSLog(@"11111");
     UIViewController *vc = [[UIViewController alloc]init];
     vc.navigationItem.title = @"firstVC";
+    NSLog(@"22222222");
 }
 
 
